@@ -1,2 +1,2 @@
-# -CSCI3251_ChoiHoYan
+# CSCI3251_ChoiHoYan
 This is the project of ChoiHoYan
